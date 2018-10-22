@@ -1,0 +1,596 @@
+﻿abandon 	(v)  /ə'bændən/  bỏ, từ bỏ
+abando	(adj)   /ə'bændənd/  bị bỏ rơi, bị ruồng bỏ
+ability	(n)  /ə'biliti/  khả năng, năng lực
+able	(adj)   /'eibl/  có năng lực, có tài 
+unable	(adj)   /'ʌn'eibl/  không có năng lực, không có tài 
+about   (adv)   /ə'baut/  khoảng, về 
+above prep	(adv)   /ə'bʌv/  ở trên, lên trên
+abroad	(adv)   /ə'brɔ:d/  ở, ra nước ngoài, ngoài trời 
+absence	 (n)  /'æbsəns/  sự vắng mặt 
+absent	  (adj)   /'æbsənt/  vắng mặt, nghỉ 
+absolute	  (adj)   /'æbsəlu:t/  tuyệt đối, hoàn toàn 
+absolutely	  (adv)   /'æbsəlu:tli/  tuyệt đối, hoàn toàn 
+absorb 	(v)  /əb'sɔ:b/  thu hút, hấp thu, lôi cuốn
+abuse 	(n)   (v)    /ə'bju:s/  lộng hành, lạm dụng
+academic	(adj)   /,ækə'demik/  thuộc học viện, ĐH, viện hàn lâm 
+accent 	(n)/'æksənt/  trọng âm, dấu trọng âm 
+accept	(v)/ək'sept/  chấp nhận, chấp thuận 
+acceptable		(adj)    /ək'septəbl/  có thể chấp nhận, chấp thuận
+unacceptable	(adj)    /'ʌnək'septəbl/ không chấp nhận được 
+access	 (n)  /'ækses/  lối, cửa, đường vào 
+accident 	(n)  /'æksidənt/  tai nạn, rủi ro
+accidental 		(adj)   /,æksi'dentl/  tình cờ, bất ngờ 
+accidentally	(adv)   /,æksi'dentəli/  tình cờ, ngẫu nhiên 
+accommodation	 (n)  /ə,kɔmə'deiʃn/  sự thích nghi, điều tiết 
+accompany	(v)  /ə'kʌmpəni/  đi theo, đi cùng, kèm theo 
+according to prep	.  /ə'kɔ:diɳ/  theo, y theo 
+account  (n)	(v)    /ə'kaunt/  tài khoản, kế toán; tính toán, tính đến
+accurate	(adj)   /'ækjurit/  đúng đắn, chính xác, xác đáng 
+accurately		(adv)   /'ækjuritli/  đúng đắn, chính xác 
+accuse  	(v)  /ə'kju:z/  tố cáo, buộc tội, kết tội 
+achieve  	(v)  /ə'tʃi:v/  đạt được, dành được 
+achievement	 (n)  /ə'tʃi:vmənt/  thành tích, thành tựu 
+acid 	(n)  /'æsid/  
+axit 	acknowledge  (v)  /ək'nɔlidʤ/  công nhận, thừa nhận 
+acquire  		(v)  /ə'kwaiə/  dành được, đạt được, kiếm được 
+across     	(adv)., 
+prep	  /ə'krɔs/  qua, ngang qua 
+afford  	(v)  /ə'fɔ:d/  có thể, có đủ khả năng, điều kiện (làm gì) 
+afraid  	(adj)   /ə'freid/  sợ, sợ hãi, hoảng sợ 
+after    	(adv)   /'ɑ:ftə/  sau, đằng sau, sau khi 
+afternoon	(n)  /'ɑ:ftə'nu:n/  buổi chiều 
+afterward	(adv)   /'ɑ:ftəwəd/  sau này, về sau, rồi thì, sau đấy 
+again 	(adv)   /ə'gen/  lại, nữa, lần nữa 
+against prep	.  /ə'geinst/  chống lại, phản đối     
+age 	(n)  /eidʤ/  tuổi 
+aged  	(adj)   /'eidʤid/  già đi 
+agency 	(n)  /'eidʤənsi/  tác dụng, lực; môi giới, trung gian 
+agent 	(n)  /'eidʤənt/  đại lý, tác nhân 
+aggressive 	 (adj)   /ə'gresiv/  xâm lược, hung hăng (US: xôngxáo)
+ago	(adv)   /ə'gou/  trước đây 
+agree 	 (v)  /ə'gri:/  đồng ý, tán thành 
+agreement	 	(n)  /ə'gri:mənt/  sự đồng ý, tán thành; hiệp định 
+ahead	(adv)   /ə'hed/  trước, về phía trước 
+aid	(n)   (v)    /eid/  sự giúp đỡ; thêm vào, phụ vào
+aim	(n)   (v)    /eim/  sự nhắm (bắn), mục tiêu, ý định; nhắm, tập trung, hướng vào     
+air 	(n)  /eə/  không khí, bầu không khí, không gian 
+aircraft 	(n)  /'eəkrɑ:ft/  máy bay, khí cầu 
+airport 	(n) sân bay, phi trường 
+alarm       (n)   (v)    /ə'lɑ:m/  báo động, báo nguy 
+alarming  (adj)   /ə'lɑ:miɳ/  làm lo sợ, làm hốt hoảng, làm sợ hãi 
+alarmed  (adj)   /ə'lɑ:m/   alcohol (n)  /'ælkəhɔl/  rượu cồn 
+alcoholic (adj) (n)  /,ælkə'hɔlik/  rượu; người nghiện rượu 
+alive  (adj)   /ə'laiv/  sống, vẫn còn sống, còn tồn tại 
+all _det_pro(n)       (adv)      /ɔ:l/  tất cả 
+allow 	(v)  /ə'lau/  cho phép, để cho 
+all right 	(adj)    (adv)., 
+exclamation	  /'ɔ:l'rait/  tốt, ổn, khỏe mạnh; được 
+ally       (n)   (v)    /'æli/  nước đồng minh, liên minh; liên kết, kết thông gia 
+allied 	(adj)   /ə'laid/  liên minh, đồng minh, thông gia 
+almost 	 (adv)   /'ɔ:lmoust/  hầu như, gần như 
+alone (adj)		(adv)   /ə'loun/  cô đơn, một mình 
+along prep    (adv)   /ə'lɔɳ/  dọc theo, theo; theo chiều dài, suốt theo 
+alongside 	prep     (adv)   /ə'lɔɳ'said/  sát cạnh, kế bên, dọc theo 
+aloud    (adv)   /ə'laud/  lớn tiếng, to tiếng 
+become  (v)  /bi'kʌm/  trở thành, trở nên     
+bed (n)  /bed/  cái giường 
+bedroom (n)  /'bedrum/  phòng ngủ 
+beef (n)  /bi:f/  thịt bò 
+beer (n)  /bi:ə/  rượu bia 
+before prep.,conj.,     (adv)   /bi'fɔ:/  trước, đằng trước 
+begin  (v)  /bi'gin/  bắt đầu, khởi đầu 
+beginning (n)  /bi'giniɳ/  phần đầu, lúc bắt đầu, lúc khởi đầu 
+behalf (n)   /bi:hɑ:f/  sự thay mặt 
+behalf of sb  thay mặt cho ai, nhân danh ai on sb’s 
+behalf (BrE) (NAmE in 
+behalf of sb, in sb’s behalf) nhân danh cá nhân ai 
+behave  (v)  /bi'heiv/  đối xử, ăn ở, cư xử 
+behaviour (BrE) (NAmE behavior) (n)  
+behind prep.,     (adv)   /bi'haind/  sau, ở đằng sau 
+belief (n)  /bi'li:f/  lòng tin, đức tin, sự tin tưởng 
+believe  (v)  /bi'li:v/  tin, tin tưởng     
+bell (n)  /bel/  cái chuông, tiếng chuông 
+belong  (v)  /bi'lɔɳ/  thuộc về, của, thuộc quyền sở hữu 
+below prep.,     (adv)   /bi'lou/  ở dưới, dưới thấp, phía dưới     
+belt (n)  /belt/  dây lưng, thắt lưng 
+bend   (v) (n)  /bentʃ/  chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong 
+bent  (adj)   /bent/  khiếu, sở thích, khuynh hướng 
+beneath prep.,     (adv)   /bi'ni:θ/  ở dưới, dưới thấp 
+benefit       (n)   (v)    /'benifit/  lợi, lợi ích; giúp ích, làm lợi cho 
+beside prep.  /bi'said/  bên cạnh, so với 
+bet   (v) (n)  /bet/  đánh cuộc, cá cược; sự đánh cuộc 
+betting (n)  /beting/  sự đánh cuộc better, best  /'betə/   /best/  tốt hơn, tốt nhất 
+good, well  /gud/   /wel/  tốt, khỏe 
+between prep.,     (adv)   /bi'twi:n/  giữa, ở giữa 
+beyond prep.,     (adv)   /bi'jɔnd/  ở xa, phía bên kia 
+bicycle (also bike) (n)  /'baisikl/  xe đạp 
+bid   (v) (n)  /bid/  đặt giá, trả giá; sự đặt giá, sự trả giá big  (adj)   /big/  to, lớn     
+bill (n)  /bil/  hóa đơn, giấy bạc 
+bin (n) (BrE)  /bin/  thùng, thùng đựng rượu 
+cannot không thể 
+could modal  (v)  /kud/  có thể 
+cancel  (v)  /´kænsəl/  hủy bỏ, xóa bỏ 
+cancer (n)  /'kænsə/  bệnh ung thư 
+candidate (n)  /'kændidit/  người ứng cử, thí sinh, người dự thi 
+candy (n) (NAmE)  /´kændi/  kẹo     
+cap (n)  /kæp/  mũ lưỡi trai, mũ vải 
+capable (of)  (adj)   /'keipәb(ә)l/   có tài, có năng lực; có khả năng, cả gan 
+capacity (n)  /kə'pæsiti/  năng lực, khả năng tiếp thu, năng suất 
+capital       (n)   (adj)    /ˈkæpɪtl/   thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản 
+captain (n)  /'kæptin/  người cầm đầu, người chỉ huy, thủ lĩnh 
+capture   (v) (n)  /'kæptʃə/  bắt giữ, bắt; sự bắt giữ, sự bị bắt     
+car (n)  /kɑ:/  xe hơi
+card (n)  /kɑ:d/  thẻ, thiếp 
+cardboard (n)  /´ka:d¸bɔ:d/  bìa cứng, các tông 
+care       (n)   (v)    /kɛər/  sự chăm sóc, chăm nom; chăm sóc 
+take care (of) sự giữ gìn care for trông nom, chăm sóc 
+career (n)  /kə'riə/   nghề nghiệp, sự nghiệp 
+careful  (adj)   /'keəful/  cẩn thận, cẩn trọng, biết giữ gìn 
+carefully     (adv)   /´kɛəfuli/  cẩn thận, chu đáo 
+careless  (adj)   /´kɛəlis/  sơ suất, cầu thả 
+carelessly          (adv)     cẩu thả, bất cẩn 
+carpet (n)  /'kɑ:pit/  tấm thảm, thảm (cỏ) 
+carrot (n)  /´kærət/  củ cà rốt 
+carry  (v)  /ˈkæri/   mang, vác, khuân chở 
+case (n)  /keis/  vỏ, ngăn, túi  
+incase (of) nếu...... 
+cash (n)  /kæʃ/  tiền, tiền mặt 
+cast   (v) (n)  /kɑ:st/  quăng, ném, thả, đánh gục; sự quăng, sự ném (lưới), sự thả (neo) 
+castle (n)  /'kɑ:sl/  thành trì, thành quách     
+cat (n)  /kæt/  con mèo catch  (v)  /kætʃ/  bắt lấy, nắm lấy, tóm lấy, chộp lấy 
+category (n)  /'kætigəri/  hạng, loại; phạm trù 
+cause       (n)   (v)    /kɔ:z/  nguyên nhân, nguyên do; gây ra, gây nên 
+cease  (v)  /si:s/  dừng, ngừng, ngớt, thôi, hết, tạnh 
+ceiling (n)  /ˈsilɪŋ/  trần nhà 
+celebrate  (v)  /'selibreit/  kỷ niệm, làm lễ kỷ niệm; tán dương, ca tụng 
+celebration (n)  /,seli'breiʃn/   sự kỷ niệm, lễ kỷ niệm; sự tán dương, sự ca tụng     
+cell (n)  /sel/  ô, ngăn 
+cellphone điện thoại di động 
+cent   /sent/  đồng xu (=1/100 đô la)
+central  (adj)   /´sentrəl/  trung tâm, ở giữa, trung ương 
+centre (BrE) (NAmE center) (n)  /'sentə/  điểm giữa, trung tâm, trung ương 
+century (n)  /'sentʃuri/  thế kỷ 
+ceremony (n)  /´seriməni/  nghi thức, nghi lễ 
+certain (adj) pro(n)  /'sə:tn/  chắc chắn 
+certainly     (adv)   /´sə:tnli/  chắc chắn, nhất định 
+uncertain  (adj)   /ʌn'sə:tn/  thiếu chính xác, không chắc chắn 
+certificate (n)  /sə'tifikit/   giấy chứng nhận, bằng, chứng chỉ 
+chain       (n)   (v)    /tʃeɪn/  dây, xích; xính lại, trói lại chair (n)  /tʃeə/   ghế 
+chairman, 
+chairwoman (n)  /'tʃeəmən/   /'tʃeə,wumən/  chủ tịch, chủ tọa 
+challenge       (n)   (v)    /'tʃælindʤ/  sự thử thách, sự thách thức; thách thức, thử thách 
+chamber (n)  /ˈtʃeɪmbər/  buồng, phòng, buồng ngủ 
+chance (n)  /tʃæns , tʃɑ:ns/  sự may mắn 
+change   (v) (n)  /tʃeɪndʒ/  thay đổi, sự thay đổi, sự biến đổi 
+channel (n)  /'tʃænl/  kênh (TV, radio), eo biển 
+chapter (n)  /'t∫æptə(r)/  chương (sách) 
+character (n)  /'kæriktə/  tính cách, đặc tính, nhân vật 
+characteristic (adj) (n)  /¸kærəktə´ristik/  riêng, riêng biệt, đặc trưng, 
+charge       (n)   (v)    /tʃɑ:dʤ/  nhiệm vụ, bổn phận, trách nhiệm;  
+in charge of  phụ trách 
+charity (n)  /´tʃæriti/  lòng từ thiện, lòng nhân đức; sự bố thí 
+chart       (n)   (v)    /tʃa:t/  đồ thị, biểu đồ; vẽ đồ thị, lập biểu đồ 
+chase   (v) (n)  /tʃeis/  săn bắt; sự săn bắt 
+chat   (v) (n)  /tʃæt/   nói chuyện, tán gẫu; chuyện phiếm, chuyện gẫu 
+cheap  (adj)   /tʃi:p/  rẻ 
+cheaply          (adv)     rẻ, rẻ tiền 
+dictionary (n)  /'dikʃənəri/   từ điển     
+die  (v)  /daɪ/   chết, từ trần, hy sinh 
+dying  (adj)   /ˈdaɪɪŋ/  sự chết      
+diet (n)  /'daiət/  chế độ ăn uống, chế độ ăn kiêng 
+difference (n)  /ˈdɪfərəns , ˈdɪfrəns/  sự khác nhau 
+different  (adj)   /'difrзnt/  khác, khác biệt, khác nhau 
+differently     (adv)   /'difrзntli/  khác, khác biệt, khác nhau 
+difficult  (adj)   /'difik(ə)lt/  khó, khó khăn, gay go 
+difficulty (n)  /'difikəlti/  sự khó khăn, nỗi khó khăn, điều cản trở    
+ dig  (v)  /dɪg/  đào bới, xới 
+dinner (n)  /'dinə/  bữa trưa, chiều  
+direct (adj)  (v)  /di'rekt; 
+dai'rekt/   trực tiếp, thẳng, thẳng thắn;  gửi, viết cho ai, điều khiển 
+directly     (adv)   /dai´rektli/  trực tiếp, thẳng 
+direction (n)  /di'rek∫n/   sự điều khiển, sự chỉ huy 
+director (n)  /di'rektə/  giám đốc, người điều khiển, chỉ huy     
+dirt (n)  /də:t/  đồ bẩn thỉu, đồ dơ bẩn, vật rác rưởi 
+dirty  (adj)   /´də:ti/  bẩn thỉu, dơ bẩn
+disabled  (adj)   /dis´eibld/  bất lực, không có khă năng 
+antage (n)  /ˌdɪsədˈvæntɪdʒ , ˌdɪsədˈvɑntɪdʒ/sự bất lợi, sự thiệt hại 
+disagree  (v)  /¸disə´gri:/  bất đồng, không đồng ý, khác, không giống; không hợp 
+disagreement (n)  /¸disəg´ri:mənt/  sự bất đồng, sự không đồng ý, sự khác nhau 
+disappear  (v)  /disə'piə/  biến mất, biến đi 
+disappoint  (v)  /ˌdɪsəˈpɔɪnt/  không làm thỏa ước nguyện, ý mong đợi; thất ước 
+disappointing  (adj)   /¸disə´pɔintiη/  làm chán ngán, làm thất vọng 
+disappointed  (adj)   /,disз'pointid/  thất vọng 
+disappointment (n)  /¸disə´pɔintmənt/  sự chán ngán, sự thất vọng 
+disapproval (n)  /¸disə´pru:vl/  sự phản đổi, sự không tán thành 
+disapprove (of)  (v)  /¸disə´pru:v/  không tán thành, phản đối, chê 
+disapproving  (adj)   /¸disə´pru:viη/  phản đối disaster (n)  /di'zɑ:stə/  tai họa, thảm họa 
+disc (also disk, especially in NAmE) (n)  /disk/  đĩa discipline (n)  /'disiplin/  kỷ luật 
+discount (n)  /'diskaunt/  sự bớt giá, sự chiết khấu, tiền bớt, chiết khấu 
+discover  (v)  /dis'kʌvə/   khám phá, phát hiện ra, nhận ra 
+discovery (n)  /dis'kʌvəri/   sự khám phá, sự tìm ra, sự phát hiện
+ear (n)  /iə/  tai 
+early (adj)     (adv)   /´ə:li/  sớm 
+earn  (v)  /ə:n/   kiếm (tiền), giành (phần thưởng) 
+earth (n)  /ə:θ/  đất, trái đất 
+ease       (n)   (v)    /i:z/  sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm, làm dễ chịu 
+east       (n)(adj)     (adv)   /i:st/  hướng đông, phía đông, (thuộc) đông, ở phía đông 
+eastern  (adj)   /'i:stən/  đông 
+easy  (adj)   /'i:zi/  dễ dàng, dễ tính, ung dung 
+easily     (adv)   /'i:zili/  dễ dàng     eat  (v)  /i:t/  ăn 
+economic  (adj)   /¸i:kə´nɔmik/  (thuộc) Kinh tế   
+economy (n)  /ɪˈkɒnəmi/  sự tiết kiệm, sự quản lý kinh tế edge (n)  /edӡ/  lưỡi, cạnh sắc 
+edition (n)  /i'diʃn/  nhà xuất bản, sự xuất bản 
+editor (n)  /´editə/  người thu thập và xuất bản, chủ bút 
+educate  (v)  /'edju:keit/   giáo dục, cho ăn học; rèn luyện 
+educated  (adj)   /'edju:keitid/   được giáo dục, được đào tạo 
+education (n)  /,edju:'keiʃn/  sự giáo dục, sự rèn luyện (kỹ năng)
+effect (n)  /i'fekt/   hiệu ứng, hiệu quả, kết quả 
+effective  (adj)   /'ifektiv/   có kết quả, có hiệu lực 
+effectively     (adv)   /i'fektivli/  có kết quả, có hiệu lực 
+efficient  (adj)   /i'fiʃənt/  có hiệu lực, có hiệu quả 
+efficiently     (adv)   /i'fiʃəntli/  có hiệu quả, hiệu nghiệm 
+effort (n)  /´efə:t/  sự cố gắng, sự nỗ lực e.g. 
+abbr. Viết tắt của cụm từ La tinh exempli gratia (for example)     
+egg (n)  /eg/  trứng 
+either det., pro(n)       (adv)      /´aiðə/  mỗi, một; cũng phải thế 
+elbow (n)  /elbou/  khuỷu tay 
+elderly  (adj)   /´eldəli/  có tuổi, cao tuổi 
+elect  (v)  /i´lekt/  bầu, quyết định 
+election (n)  /i´lekʃən/  sự bầu cử, cuộc tuyển cử 
+electric  (adj)   /ɪˈlɛktrɪk/  (thuộc) điện, có điện, phát điện 
+electrical  (adj)   /i'lektrikəl/  (thuộc) điện 
+electricity (n)  /ilek'trisiti/  điện, điện lực; điện lực học 
+face       (n)   (v)    /feis/  mặt, thể diện; đương đầu, đối phó, đối mặt 
+facility (n)  /fəˈsɪlɪti/  điều kiện dễ dàng, sự dễ dàng, thuận lợi 
+fact 	(n)  /fækt/  việc, sự việc, sự kiện 
+factor (n)  /'fæktə  /   nhân tố 
+factory (n)  /'fæktəri/  nhà máy, xí nghiệp, xưởng     
+fail  (v)  /feil/   sai, thất bại 
+failure (n)  /ˈfeɪlyər/  sự thất bại, người thất bại 
+faint  (adj)   /feɪnt/  nhút nhát, yếu ớt 
+faintly     (adv)   /'feintli/  nhút nhát, yếu ớt 
+fair  (adj)   /feə/  hợp lý, công bằng; thuận lợi 
+fairly     (adv)   /'feəli/  hợp lý, công bằng 
+unfair  (adj)   /ʌn´fɛə/  gian lận, không công bằng; bất lợi 
+unfairly     (adv)   /ʌn´fɛəli/  gian lận, không công bằng; bất lợi 
+faith (n)  /feiθ/  sự tin tưởng, tin cậy; niềm tin, vật đảm bảo 
+faithful  (adj)   /'feiθful/  trung thành, chung thủy, trung thực 
+faithfully     (adv)   /'feiθfuli/  trung thành, chung thủy, trung thực 
+yours faithfully (BrE) bạn chân thành 
+fall   (v) (n)  /fɔl/  rơi, ngã, sự rơi, ngã 
+fall over ngã lộn nhào, bị đổ 
+false  (adj)   /fo:ls/  sai, nhầm, giả dối 
+fame (n)  /feim/   tên tuổi, danh tiếng 
+familiar  (adj)   /fəˈmiliər/   thân thiết, quen thộc 
+family       (n)   (adj)    /ˈfæmili/  gia đình, thuộc gia đình 
+famous  (adj)   /'feiməs/   nổi tiếng     
+fan (n)  /fæn/  người hâm mộ 
+fancy   (v)  (adj)   /ˈfænsi/  tưởng tượng, cho, nghĩ rằng; tưởng tượng
+get off  ra khỏi, thoát khỏi 
+giant       (n)   (adj)    /ˈdʒaiənt/   người khổng lồ, người phi thường; khổng lồ, phi thường     
+gift (n)  /gift/  quà tặng     girl (n)  /g3:l/  con gái 
+girlfriend (n)  /'gз:lfrend/  bạn gái, người yêu     
+give  (v)  /giv/   cho, biếu, tặng 
+give sth away cho, phát give sth out chia, phân phối 
+give (sth) up bỏ, từ bỏ 
+glad  (adj)   /glæd/  vui lòng, sung sướng 
+glass (n)  /glɑ:s/   kính, thủy tinh, cái cốc, ly 
+glasses (n) kính đeo mắt 
+global  (adj)  v  /´gloubl/  toàn cầu, toàn thể, toàn bộ 
+glove (n)  /glʌv/   bao tay, găng tay 
+glue       (n)   (v)    /glu:/   keo, hồ; gắn lại, dán bằng keo, hồ     
+gram (n)  /'græm/  đậu xanh     
+go  (v)  /gou/đi
+be going to sắp sửa, có ý định 
+goal (n)  /goƱl/   ban thang 
+god (n)  /gɒd/  thần, Chúa 
+gold       (n)   (adj)    /goʊld/  vàng; bằng vàng 
+good (adj) (n)  /gud/  tốt, hay, tuyệt; điều tốt, điều thiện 
+good at tiến bộ ở 
+good for có lợi cho 
+goodbye exclamation, (n)  /¸gud´bai/  tạm biệt; lời chào tạm biệt 
+goods (n)  /gudz/  của cải, tài sản, hàng hóa 
+govern  (v)  /´gʌvən/  cai trị, thống trị, cầm quyền 
+government (n)  /ˈgʌvərnmənt , ˈgʌvərmənt/  chính phủ, nội các; sự cai trị 
+governor (n)  /´gʌvənə/  thủ lĩnh, chủ; kẻ thống trị 
+grab  (v)  /græb/  túm lấy, vồ, chộp lấy 
+grade       (n)   (v)    /greɪd/  điểm, điểm số; phân loại, xếp loại 
+gradual  (adj)   /´grædjuəl/  dần dần, từng bước một 
+gradually     (adv)   /'grædzuәli/  dần dần, từ từ
+habit (n)  /´hæbit/  thói quen, tập quán 
+hair (n)  /heə/  tóc hairdresser (n)  /'heədresə/  thợ làm tóc 
+half       (n)det.,pro    (n)       (adv)      /hɑ:f/  một nửa, phần chia đôi, nửa giờ; nửa     
+hall (n)  /hɔ:l/  đại sảnh, tòa (thị chính), hội trường 
+hammer (n)  /'hæmə/  búa 
+hand       (n)   (v)    /hænd/  tay, bàn tay; trao tay, truyền cho 
+handle   (v) (n)  /'hændl/  cầm, sờ mó; tay cầm, móc quai 
+hang  (v)  /hæŋ/  treo, mắc 
+happen  (v)  /'hæpən/   xảy ra, xảy đến 
+happiness (n)  /'hæpinis/   sự sung sướng, hạnh phúc 
+unhappiness (n)  /ʌn´hæpinis/  nỗi buồn, sự bất hạnh 
+happy  (adj)   /ˈhæpi/   vui sướng, hạnh phúc 
+happily     (adv)   /'hæpili/  sung sướng, hạnh phúc 
+unhappy  (adj)   /ʌn´hæpi/  buồn rầu, khốn khổ 
+hard (adj)     (adv)   /ha:d/   cứng, rắn, hà khắc; hết sức cố gắng, tích cực 
+hardly     (adv)   /´ha:dli/  khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn 
+harm       (n)   (v)    /hɑ:m/  thiệt hại, tổn hao; làm hại, gây thiệt hại 
+harmful  (adj)   /´ha:mful/  gây tai hại, có hại 
+harmless  (adj)   /´ha:mlis/  không có hại     hat (n)  /hæt/   cái mũ 
+hate   (v) (n)  /heit/   ghét; lòng căm ghét, thù hận 
+hatred (n)  /'heitrid/   lòng căm thì, sự căm ghét )
+ auxiliary  (v)  /hæv, həv/   có have to 
+modal    (v)   phải (bắt buộc, có bổn phận phải) he 
+pro(n)  /hi:/  nó, anh ấy, ông ấy  
+head       (n)   (v)    /hed/  cái đầu (người, thú); chỉ huy, lãnh đại, dẫn đầu 
+headache (n)  /'hedeik/   chứng nhức đầu     
+heal  (v)  /hi:l/  chữa khỏi, làm lành 
+health (n)  /hɛlθ/  sức khỏe, thể chất, sự lành mạnh 
+healthy  (adj)   /'helθi/  khỏe mạnh, lành mạnh 
+hear  (v)  /hiə/   nghe hearing (n)  /ˈhɪərɪŋ/  sự nghe, thính giác 
+heart (n)  /hɑ:t/  tim, trái tim 
+heat       (n)   (v)    /hi:t/  hơi nóng, sức nóng
+impossible (adj)   /im'pɔsəbl/  không thể làm được, không thể xảy ra 
+impress  (v)  /im'pres/  ghi, khắc, in sâu vào; gây ấn tượng, làm cảm động 
+impressed  (adj)  được ghi, khắc, in sâu vào 
+impression (n)  /ɪmˈprɛʃən/  ấn tượng, cảm giác; sự in, đóng dấu 
+impressive  (adj)   /im'presiv/  gấy ấn tượng mạnh; hùng vĩ, oai vệ 
+improve  (v)  /im'pru:v/  cải thiện, cái tiến, mở mang 
+improvement (n)  /im'pru:vmənt/  sự cái thiện, sự cải tiến, sự mở mang 
+in prep.,     (adv)   /in/  ở, tại, trong; vào 
+inability (n)  /¸inə´biliti/  sự bất lực, bất tài 
+inch (n)  /intʃ/  insơ (đơn vị đo chiều dài Anh bằng 2, 54 cm) 
+incident (n)  /´insidənt/  việc xảy ra, việc có liên quan 
+include  (v)  /in'klu:d/   bao gồm, tính cả 
+including prep.  /in´klu:diη/  bao gồm, kể cả income (n)  /'inkəm/  lợi tức, thu nhập 
+increase   (v) (n)  /in'kri:s/or/'inkri:s/   tăng, tăng thêm; sự tăng, sự tăng thêm 
+increasingly     (adv)   /in´kri:siηli/  tăng thêm 
+indeed     (adv)   /ɪnˈdid/  thật vậy, quả thật 
+independence (n)  /,indi'pendəns/  sự độc lập, nền độc lập 
+independent  (adj)   /,indi'pendənt/  độc lập 
+independently     (adv)   /,indi'pendзntli/  độc lập 
+index (n)  /'indeks/  chỉ số, sự biểu thị 
+indicate  (v)  /´indikeit/  chỉ, cho biết; biểu thị, trình bày ngắn gọn 
+indication (n)  /,indi'kei∫n/  sự chỉ, sự biểu thị, sự biểu lộ 
+indirect  (adj)   /¸indi´rekt/  gián tiếp 
+indirectly     (adv)   /,indi'rektli/  gián tiếp 
+individual (adj) (n)  /indivídʤuəl/   riêng, riêng biệt; cá nhân 
+indoors     (adv)   /¸in´dɔ:z/  ở trong nhà 
+indoor  (adj)   /´in¸dɔ:/  trong nhà 
+industrial  (adj)   /in´dʌstriəl/  (thuộc) công nghiệp, kỹ nghệ 
+industry (n)  /'indəstri/  công nghiệp, kỹ nghệ 
+inevitable  (adj)   /in´evitəbl/  không thể tránh được, chắc chắn xảy ra; vẫn thường thấy, nghe 
+inevitably     (adv)   /in’evitəbli/  chắc chắn 
+infect  (v)  /in'fekt/  nhiễm, tiêm nhiễm, đầu độc, lan truyền 
+infected  (adj)  bị nhiễm, bị đầu độc 
+infection (n)  /in'fekʃn/  sự nhiễm, sự đầu độc
+issue       (n)   (v)    /ɪʃuː; BrE also ɪsjuː/   sự phát ra, sự phát sinh; phát hành, đưa ra
+ipro(n)det.  /it/  cái đó, điều đó, con vật đó
+itsdet.  /its/  của cái đó, của điều đó, của con vật đó; cái của điều đó, cái của con vật đó 
+item (n)  /'aitəm/  tin tức; khoả(n)., mó(n).., tiết mục 
+itself pro(n)  /it´self/  chính cái đó, chính điều đó, chính con vật đó 
+jacket (n)  /'dʤækit/   áo vét     
+jam (n)  /dʒæm/  mứt 
+January (n) (abbr. Ja(n))  /'ʤænjuəri/  tháng giêng 
+jealous  (adj)   /'ʤeləs/  ghen,, ghen tị 
+jeans (n)  /dЗeins/  quần bò, quần 
+zin jelly (n)  /´dʒeli/  thạch 
+jewelry) (n)  /'dʤu:əlri/  nữ trang, kim hoàn    
+job (n)  /dʒɔb/   việc, việc làm     
+join  (v)  /ʤɔin/  gia nhập, tham gia; nối, chắp, ghép 
+joint (adj) (n)  /dʒɔɪnt/  chung (giữa 2 người hoặc hơn); chỗ nối, đầu nối 
+jointly     (adv)   /ˈdʒɔɪntli/  cùng nhau, cùng chung 
+joke (n)   (v)    /dʒouk/   trò cười, lời nói đùa; nói đùa, giễu cợt 
+journalist (n)  /´dʒə:nəlist/  nhà báo 
+journey (n)  /'dʤə:ni/  cuộc hành trình (đường bộ); quãng đường, chặng đường đi     
+joy (n)  /dʒɔɪ/  niềm vui, sự vui mừng 
+judge (v)    /dʒʌdʒ/   xét xử, phân xử; quan tòa, thẩm phán 
+judgement (also judgment 
+especially in NAmE) (n)  /'dʤʌdʤmənt/   sự xét xử 
+juice (n)  /ʤu:s/  nước ép (rau, củ, quả) 
+July (n) (abbr. Jul.)  /dʒu´lai/  tháng 7 
+jump  (v) /dʒʌmp/   nhảy; sự nhảy, bước nhảy 
+June (n) (abbr. Ju(n))  /dЗu:n/  tháng 6 
+junior (adj) (n)  /´dʒu:niə/  trẻ hơn, ít tuổi hơn; người ít tuổi hơn 
+just(adv)   /dʤʌst/  đúng, vừa đủ; vừa mới, chỉ 
+justice (n)  /'dʤʌstis/  sự công bằng 
+justify  (v)  /´dʒʌsti¸fai/  bào chữa, biện hộ 
+justified  (adj)   /'dʒʌstɪfaɪd/  hợp lý, được chứng minh là đúng 
+keen  (adj)   /ki:n/  sắc, bén 
+keen on say mê, ưa thích keep  (v)  /ki:p/  giữ, giữ lại 
+key(n)   (adj)    /ki:/  chìa khóa, khóa, thuộc (khóa)
+landscape (n)  /'lændskeip/   phong cảnh
+ lane (n)  /lein/  đường nhỏ (làng, hẻm phố) 
+language (n)  /ˈlæŋgwɪdʒ/   ngôn ngữ 
+large  (adj)   /la:dʒ/  rộng, lớn, to 
+largely     (adv)   /´la:dʒli/  phong phú, ở mức độ lớn 
+last det.,     (adv).,       (n)   (v)    /lɑ:st/  lầm cuối, sau cùng; người cuối cùng;  cuối cùng, rốt hết; kéo dài 
+late (adj)     (adv)   /leit/  trễ, muộn
+later     (adv).,  (adj)   /leɪtə(r)/  chậm hơn 
+latest (adj) (n)  /leitist/  muộn nhất, chậm nhất, gần đây nhất 
+latter (adj) (n)  /´lætə/  sau cùng, gần đây, mới đây 
+laugh   (v) (n)  /lɑ:f/   cười; tiếng cười 
+launch   (v) (n)  /lɔ:ntʃ/  hạ thủy (tàu); khai trương; sự hạ thủy, buổi giới thiệu sản phầm     
+law (n)  /lo:/  luật 
+lawyer (n)  /ˈlɔyər , ˈlɔɪər/   luật sư     
+lay  (v)  /lei/  xếp, đặt, bố trí layer (n)  /'leiə/  lớp 
+lazy  (adj)   /'leizi/  lười biếng 
+lead  /li:d/    (v) (n) lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn 
+leading  (adj)   /´li:diη/  lãnh đạo, dẫn đầu 
+leader (n)  /´li:də/  người lãnh đạo, lãnh tụ     
+leaf (n)  /li:f/  lá cây, lá (vàng...) 
+league (n)  /li:g/  liên minh, liên hoàn     
+lean  (v)  /li:n/  nghiêng, dựa, ỷ vào 
+learn  (v)  /  lə:n/   học, nghiên cứu 
+least det., pro(n)       (adv)      /li:st/   tối thiểu; ít nhất at least ít ra, ít nhất, chí ít 
+leather (n)  /'leðə/  da thuộc
+leave  (v)  /li:v/  bỏ đi, rời đi, để lại 
+leave out bỏ quên, bỏ sót 
+lecture (n)  /'lekt∫ә(r)/  bài diễn thuyết, bài thuyết trình, bài nói chuyện 
+left    (adj)   (adv) (n)  /left/  bên trái; về phía trái     
+leg (n)  /´leg/  chân (người, thú, bà(n)..) 
+legal  (adj)   /ˈligəl/  hợp pháp 
+legally     (adv)   /'li:gзlizm/  hợp pháp
+melt  (v)  /mɛlt/  tan ra, chảy ra; làm tan chảy ra 
+member (n)  /'membə/  thành viên, hội viên 
+membership (n)  /'membəʃip/  tư cách hội viên, địa vị hội  viên 
+memory (n)  /'meməri/  bộ nhớ, trí nhớ, kỉ niệm 
+in memory of sự tưởng nhớ 
+mental  (adj)   /'mentl/  (thuộc) trí tuệ, trí óc; mất trí 
+mentally     (adv)   /´mentəli/  về mặt tinh thần 
+mention  (v)  /'menʃn/  kể ra, nói đến, đề cập 
+menu (n)  /'menju/  thực đơn mere  (adj)   /miə/  chỉ là 
+merely     (adv)   /'miәli/  chỉ, đơn thuần 
+mess (n)  /mes/  tình trạng bừa bộn, tình trạng lộn xộn; người nhếch nhác, bẩn thỉu 
+message (n)  /ˈmɛsɪdʒ/  tin nhắn, thư tín, điện thông báo, thông điệp 
+metal (n)  /'metl/  kim loại 
+method (n)  /'meθəd/  phương pháp, cách thức 
+metre (BrE) (NAmE meter) (n)  /´mi:tə/  mét 
+mid- combining form tiền tố: một nửa 
+midday (n)  /´mid´dei/  trưa, buổi trưa 
+middle       (n)   (adj)    /'midl/  giữa, ở giữa 
+midnight (n)  /'midnait/   nửa đêm, 12h đêm 
+might modal  (v)  /mait/  qk. may có thể, có lẽ 
+mild  (adj)   /maɪld/  nhẹ, êm dịu, ôn hòa 
+mile (n)  /mail/  dặm (đo lường) 
+military  (adj)   /'militəri/  (thuộc) quân đội, quân sự 
+milk (n)  /milk/  sữa 
+milligram (BrE also milligramme) (n) (abbr. mg)  /´mili¸græm/  
+mi-li-gam millimetre (NAmE 
+millimeter) (n) (abbr. mm)  /´mili¸mi:tə/  
+mi-li-met mind       (n)   (v)    /maid/  tâm trí, tinh thần, trí tuệ; chú ý, để ý, chăm sóc, quan tâm 
+mine   pro(n)(n) của tôi 
+mineral       (n)   (adj)    /ˈmɪnərəl , ˈmɪnrəl/   công nhân, thợ mỏ; khoáng 
+minimum (adj) (n)  /'miniməm/  tối thiểu; số lượng tối thiểu, mức tối thiểu 
+minister (n)  /´ministə/  bộ trưởng 
+ministry (n)  /´ministri/  bộ minor  (adj)   /´mainə/  nhỏ hơn, thứ yếu, không quan trọng 
+minority (n)  /mai´nɔriti/  phần ít, thiểu số 
+totally     (adv)   /toutli/  hoàn toàn 
+touch  (v)   (n)   /tʌtʃ/  sờ, mó, tiếp xúc; sự sờ, sự mó, sự tiếp xúc 
+tough  (adj)   /tʌf/chắc, bền, dai tour  (n)  ,  (v)  /tuə/  cuộc đo du lịch, cuộc đi dạo, chuyến du lịch; đi du lịch 
+tourist   (n)   /'tuərist/  khách du lịch 
+towards (also toward especially in NAmE) prep.  /tə´wɔ:dz/  theo hướng, về hướng 
+towel   (n)   /taʊəl/  khăn tắm, khăn lau 
+tower   (n)   /'tauə/  tháp 
+town   (n)   /taun/  thị trấn, thị xã, thành phố nhỏ toy  (n)  ,  (adj)   /tɔi/  đồ chơi, đồ trang trí; thể loại đồ chơi 
+trace   (v)   (n)   /treis/  phát hiện, tìm thấy, vạch, chỉ ra, phác họa; dấu, vết, một chút 
+track   (n)   /træk/  phần của đĩa; đường mòn, đường đua 
+trade  (n)  ,  (v)  /treid/  thương mại, buôn bán; buôn bán, trao đổi 
+trading   (n)   /treidiη/  sự kinh doanh, việc mua bán 
+tradition   (n)   /trə´diʃən/  truyền thống 
+traditional  (adj)   /trə´diʃənəl/  theo truyền thống, theo lối cổ 
+traditionally     (adv)   /trə´diʃənəlli/  (thuộc) truyền thống, là truyền thống 
+traffic   (n)   /'træfik/  sự đi lại, sự giao thông, sự chuyển động 
+train  (n)  ,  (v)  /trein/  xe lửa, tàu hỏa; dạy, rèn luyện, đào tạo training   (n)   /'trainiŋ/  sự dạy dỗ, sự huấn luyện, sự đào tạo 
+transfer   (v)   (n)   /'trænsfə:/  dời, di chuyển; sự di chuyển, sự dời chỗ 
+transform  (v)  /træns'fɔ:m/  thay đổi, biến đổi translate  (v)  /træns´leit/  dịch, biên dịch, phiên dịch 
+translation   (n)   /træns'leiʃn/  sự dịch 
+transparent  (adj)   /træns´pærənt/  trong suốt; dễ hiểu, sáng sủa 
+transport   (n)  (BrE) (NAmE transportation)  /'trænspɔ:t/  sự vận chuyển, sự vận tải; phương tiện đi lại 
+transport    (v)   (BrE, NAmE) chuyên chở, vận tải trap  (n)  ,  (v)  /træp/  đồ đạc, hành lý; bẫy, cạm bãy; bẫy, giữ, chặn lại 
+travel   (v)   (n)   /'trævl/  đi lại, đi du lịch, di chuyển; sự đi, những chuyến đi 
+traveller (BrE) (NAmE traveler)   (n)   /'trævlə/  người đi, lữ khách treat  (v)  /tri:t/  đối xử, đối đãi, cư xử 
+treatment   (n)   /'tri:tmənt/  sự đối xử, sự cư xử tree   (n)   /tri:/  cây 
+trend   (n)   /trend/  phương hướng, xu hướng, chiều hướng 
+uncomfortable comfortable  /ʌη´kʌmfətəbl/  bất tiện, không tiện lợi 
+unconscious conscious  /ʌn'kɔnʃəs/  bất tỉnh, ngất đi 
+uncontrolled control  /'ʌnkən'trould/  không bị kiềm chế, không bị kiểm tra 
+under prep.,     (adv)   /'ʌndə/  dưới, ở dưới; ở phía dưới, về phía dưới 
+underground   (adj)   (adv)   /'ʌndəgraund/  dưới mặt đất, ngầm dưới đất; ngầm 
+underneath prep.,     (adv)   /¸ʌndə´ni:θ/  dưới, bên dưới 
+understand  (v)  /ʌndə'stænd/  hiểu, nhận thức 
+understanding   (n)   /ˌʌndərˈstændɪŋ/  trí tuệ, sự hiểu biết 
+underwater (adj)     (adv)   /´ʌndə¸wɔtə/  ở dưới mặt nước, dưới mặt nước 
+underwear   (n)   /'ʌndəweə/  quần lót 
+undo  /ʌn´du:/  tháo, gỡ, xóa, hủy bỏ 
+unemployed  /¸ʌnim´plɔid/  không dùng, thất nghiệp 
+unemployment  /'Δnim'ploimзnt/  sự thất nghiệp, tình trạng thất nghiệp 
+Unexpected / unexpectedly /¸ʌniks´pektid/  bất ngờ, đột ngột, gây ngạc nhiên 
+Unfair / unfairly  /ʌn´fɛə/  không đúng, không công bằng, gian lận 
+unfortunate  (adj)   /Λnfo:'t∫әneit/  không may, rủi ro, bất hạnh 
+unfortunately     (adv)   /ʌn´fɔ:tʃənətli/  một cách đáng tiếc, một cách không may 
+unfriendly  /ʌn´frendli/  đối địch, không thân thiện 
+unhappiness  /ʌn´hæpinis/  sự buồn, nỗi buồn 
+unhappy  /ʌn´hæpi/  buồn rầu, khổ sở 
+uniform  (n)  ,  (adj)   /ˈjunəˌfɔrm/  đồng phục; đều, giống nhau, đồng dạng 
+unimportant  /¸ʌnim´pɔ:tənt/  không quan trọng 
+union   (n)   /'ju:njən/  liên hiệp, sự đoàn kết, sự hiệp nhất 
+unique  (adj)   /ju:´ni:k/  độc nhất vô nhị     
+unit   (n)   /'ju:nit/  đơn vị 
+unite  (v)  /ju:´nait/  liên kết, hợp nhất, hợp lại, kết thân 
+united  (adj)   /ju:'naitid/   liên minh, đoàn kết, chung, thống nhất 
+universe   (n)   /'ju:nivə:s/  vũ trụ 
+university   (n)   /¸ju:ni´və:siti/  trường đại học 
+unkind  /ʌn´kaind/  không tử tế, không tốt 
+unknown  /'ʌn'noun/  không biết, không được nhận ra 
+unless conj.  /ʌn´les/  trừ phi, trừ khi, nếu không 
+unlike  /ʌn´laik/  không giống, khác 
+unlikely   /ʌnˈlaɪkli/  không có thể xảy ra, không chắc chắn; không có thực 
+unload  /ʌn´loud/  tháo, dỡ 
+unlucky /ʌn´lʌki/  không gặp may, không may mắn 
+valuable  (adj)   /'væljuəbl/  có giá trị lớn, đáng giá 
+value  (n)  ,  (v)  /'vælju:/  giá trị, ước tính, định giá     
+van   (n)   /væn/  tiền đội, quân tiên phong; xe tải 
+variation   (n)   /¸veəri´eiʃən/  sự biến đổi, sự thay đổi mức độ, sự khác nhau 
+variety   (n)   /və'raiəti/  sự đa dạng, trạng thái khác nhau 
+various  (adj)   /veri.əs/  khác nhau, thuộc về nhiều loại 
+vary  (v)  /'veəri/  thay đổi, làm cho khác nhau, biến đổi 
+varied  (adj)   /'veərid/  thuộc nhiều loại khác nhau, những vẻ đa dạng 
+vast  (adj)   /vɑ:st/  rộng lớn, mênh mông 
+vegetable   (n)   /ˈvɛdʒtəbəl , ˈvɛdʒɪtəbəl/  rau, thực vật vehicle   (n)   /'vi:hikl/  xe cộ 
+venture  (n)  ,  (v)  /'ventʃə/  sự án kinh doanh, công việc kinh doanh; liều, mạo hiểm, cả gan 
+version   (n)   /'və:∫n/  bản dịch sang một ngôn ngữ khác 
+vertical  (adj)   /ˈvɜrtɪkəl/  thẳng đứng, đứng 
+very     (adv)   /'veri/  rất, lắm via prep.  /'vaiə/  qua, theo đường 
+victim   (n)   /'viktim/  nạn nhân 
+victory   (n)   /'viktəri/  chiến thắng video   (n)   /'vidiou/  video 
+view  (n)  ,  (v)  /vju:/  sự nhìn, tầm nhìn; nhìn thấy, xem, quan sát 
+village   (n)   /ˈvɪlɪdʒ/  làng, xã violence   (n)   /ˈvaɪələns/  sự ác liệt, sự dữ dội; bạo lực 
+violent  (adj)   /'vaiələnt/  mãnh liệt, mạnh mẽ, hung dữ 
+violently     (adv)   /'vaiзlзntli/  mãnh liệt, dữ dội 
+virtually     (adv)   /'və:tjuəli/  thực sự, hầu như, gần như 
+virus   (n)   /'vaiərəs/  vi rút 
+visible  (adj)   /'vizəbl/  hữu hình, thấy được 
+vision   (n)   /'viʒn/  sự nhìn, thị lực 
+visit   (v)   (n)   /vizun/  đi thăm hỏi, đến chơi, tham quan; sự đi thăm, sự thăm viếng 
+visitor   (n)   /'vizitə/  khách, du khách 
+vital  (adj)   /'vaitl/  (thuộc) sự sống, cần cho sự sống 
+vocabulary   (n)   /və´kæbjuləri/  từ vựng 
+voice   (n)   /vɔis/  tiếng, giọng nói 
+volume   (n)   /´vɔlju:m/  thế tích, quyển, tập 
+vote  (n)  ,  (v)  /voʊt/  sự bỏ phiếu, sự bầu cử; bỏ phiếu, bầu cử 
+week   (n)   /wi:k/  tuần, tuần lễ
+weekend   (n)   /¸wi:k´end/  cuối tuần
+weekly  (adj)   /´wi:kli/  mỗi tuần một lần, hàng tuần 
+weigh  (v)  /wei/  cân, cân nặng 
+weight   (n)   /'weit/  trọng lượng 
+welcome (v) (adj) (n)  , 
+exclamation  /'welkʌm/  chào mừng, hoan nghênh 
+well     (adv)., (adj) 
+exclamation  /wel/  tốt, giỏi; ôi, may quá! as 
+well (as) cũng, cũng như  
+west  (n)  , (adj)  (adv)     /west/  phía Tây, theo phía tây, về hướng tây 
+western  (adj)   /'westn/  về phía tây, của phía tây 
+wet  (adj)   /wɛt/  ướt, ẩm ướt 
+whatpro(n)det.  /wʌt/  gì, thế nào 
+whatever det., pro(n)/wɔt´evə/  bất cứ thứ gì, bất kể thứ gì 
+wheel   (n)   /wil/  bánh xe 
+when     (adv)., pro(n) conj.  /wen/  khi, lúc, vào lúc nào 
+whenever conj.  /wen'evə/  bất cứ lúc nào, lúc nào 
+where     (adv)., conj.  /weər/  đâu, ở đâu; nơi mà 
+whereas conj.  /weə'ræz/  nhưng ngược lại, trong khi 
+wherever conj.  /  weər'evə(r)/  ở bất cứ nơi nào, ở bất cứ nơi đâu 
+whether conj.  /´weðə/  có..không; có... chăng; không biết có.. không 
+which    pro (n)det.  /witʃ/  nào, bất cứ.. nào; ấy, đó 
+while    (n)   /wail/  trong lúc, trong khi; lúc, chốc, lát 
+whilst  conj. (especially BrE)  /wailst/  trong lúc, trong khi 
+whisper   (v)   (n)   /´wispə/  nói thì thầm, xì xào; tiếng nói thì thầm, tiếngxào 
+whistle  (n)  ,  (v)  /wisl/  sự huýt sáo, sự thổi còi; huýt sáo, thổi còi 
+white (adj)   (n)   /wai:t/  trắng; màu trắng 
+who   pro(n)   /hu:/  ai, người nào, kẻ nào, người như thế nào 
+whoever pro(n)   /hu:'ev  /  ai, người nào, bất cứ ai, bất cứ người nào, dù ai 
+whole  (adj)   (n)   /həʊl/  bình an vô sự, không suy suyển, không hư hỏng; toàn bộ, tất cả, toàn thể 
+whom  (n)   /hu:m/  ai, người nào; người mà 
+whose det., pro(n)   /hu:z/  của ai 
+why     (adv)   /wai/  tại sao, vì sao 
+wide  (adj)   /waid/  rộng, rộng lớn 
+widely     (adv)   /´waidli/  nhiều, xa; rộng rãi       
