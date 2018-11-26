@@ -1,0 +1,3 @@
+360:297:1:/Images/shawdow4.png
+225:117:1:/Images/shawdow4.png
+495:117:1:/Images/shawdow4.png

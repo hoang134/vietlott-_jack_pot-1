@@ -1,0 +1,9 @@
+135:495:5:3:3:1:/Images/quaivat 1_down.png
+180:495:5:3:3:1:/Images/quaivat 1_down.png
+225:495:5:3:3:1:/Images/quaivat 1_down.png
+225:180:6:3:5:1:/Images/quaivat 2_down.png
+270:180:6:3:5:1:/Images/quaivat 2_down.png
+315:180:6:3:5:1:/Images/quaivat 2_down.png
+450:180:5:3:3:1:/Images/quaivat 1_down.png
+495:180:5:3:3:1:/Images/quaivat 1_down.png
+530:180:5:3:3:1:/Images/quaivat 1_down.png
